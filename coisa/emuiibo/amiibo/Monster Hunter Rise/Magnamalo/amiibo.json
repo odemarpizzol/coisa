@@ -1,0 +1,35 @@
+{
+  "name": "Magnamalo",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 2101,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 24,
+    "model_number": 1039
+  },
+  "uuid": [
+    30,
+    185,
+    210,
+    17,
+    120,
+    198,
+    44,
+    0,
+    0,
+    0
+  ]
+}

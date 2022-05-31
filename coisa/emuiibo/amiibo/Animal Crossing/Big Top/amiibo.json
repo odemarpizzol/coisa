@@ -1,0 +1,35 @@
+{
+  "name": "Big Top",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 9475,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 266
+  },
+  "uuid": [
+    35,
+    219,
+    224,
+    69,
+    58,
+    184,
+    37,
+    0,
+    0,
+    0
+  ]
+}

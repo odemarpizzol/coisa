@@ -1,0 +1,35 @@
+{
+  "name": "Cloud",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 54,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 0,
+    "model_number": 601
+  },
+  "uuid": [
+    10,
+    62,
+    68,
+    206,
+    23,
+    75,
+    231,
+    0,
+    0,
+    0
+  ]
+}

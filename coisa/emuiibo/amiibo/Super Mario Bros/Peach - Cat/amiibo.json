@@ -1,0 +1,35 @@
+{
+  "name": "Peach - Cat",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 512,
+    "character_variant": 1,
+    "figure_type": 0,
+    "series": 1,
+    "model_number": 935
+  },
+  "uuid": [
+    144,
+    64,
+    21,
+    131,
+    178,
+    240,
+    145,
+    0,
+    0,
+    0
+  ]
+}

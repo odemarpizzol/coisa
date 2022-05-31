@@ -1,0 +1,35 @@
+{
+  "name": "Simon",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 49207,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 0,
+    "model_number": 907
+  },
+  "uuid": [
+    79,
+    228,
+    251,
+    34,
+    162,
+    101,
+    214,
+    0,
+    0,
+    0
+  ]
+}

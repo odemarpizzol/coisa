@@ -1,0 +1,35 @@
+{
+  "name": "Toon Link",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 1,
+    "character_variant": 1,
+    "figure_type": 0,
+    "series": 0,
+    "model_number": 22
+  },
+  "uuid": [
+    11,
+    245,
+    41,
+    192,
+    23,
+    234,
+    21,
+    0,
+    0,
+    0
+  ]
+}

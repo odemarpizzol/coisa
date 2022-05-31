@@ -1,0 +1,35 @@
+{
+  "name": "Meta Knight",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 287,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 12,
+    "model_number": 597
+  },
+  "uuid": [
+    224,
+    131,
+    6,
+    40,
+    166,
+    4,
+    139,
+    0,
+    0,
+    0
+  ]
+}

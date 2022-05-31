@@ -1,0 +1,35 @@
+{
+  "name": "Mario - Soccer",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 49161,
+    "character_variant": 1,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 617
+  },
+  "uuid": [
+    227,
+    94,
+    57,
+    147,
+    228,
+    107,
+    210,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Bowser Jr. - Soccer",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 51721,
+    "character_variant": 1,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 667
+  },
+  "uuid": [
+    167,
+    151,
+    214,
+    49,
+    80,
+    210,
+    29,
+    0,
+    0,
+    0
+  ]
+}

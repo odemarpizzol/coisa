@@ -1,0 +1,35 @@
+{
+  "name": "Bree",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 3844,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 336
+  },
+  "uuid": [
+    224,
+    18,
+    252,
+    255,
+    43,
+    240,
+    14,
+    0,
+    0,
+    0
+  ]
+}

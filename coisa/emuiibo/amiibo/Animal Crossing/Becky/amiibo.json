@@ -1,0 +1,35 @@
+{
+  "name": "Becky",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 41474,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 442
+  },
+  "uuid": [
+    148,
+    251,
+    187,
+    158,
+    169,
+    147,
+    65,
+    0,
+    0,
+    0
+  ]
+}

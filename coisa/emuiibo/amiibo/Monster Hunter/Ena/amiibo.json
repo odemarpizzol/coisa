@@ -1,0 +1,35 @@
+{
+  "name": "Ena",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 1589,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 15,
+    "model_number": 1037
+  },
+  "uuid": [
+    101,
+    132,
+    215,
+    221,
+    65,
+    169,
+    53,
+    0,
+    0,
+    0
+  ]
+}

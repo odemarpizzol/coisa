@@ -1,0 +1,35 @@
+{
+  "name": "Egbert",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 39682,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 203
+  },
+  "uuid": [
+    220,
+    198,
+    192,
+    107,
+    114,
+    117,
+    74,
+    0,
+    0,
+    0
+  ]
+}

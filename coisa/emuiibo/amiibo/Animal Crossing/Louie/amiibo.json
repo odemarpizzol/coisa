@@ -1,0 +1,35 @@
+{
+  "name": "Louie",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 27907,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 772
+  },
+  "uuid": [
+    158,
+    72,
+    121,
+    22,
+    222,
+    61,
+    103,
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Luigi - Golf",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 49417,
+    "character_variant": 4,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 625
+  },
+  "uuid": [
+    153,
+    110,
+    230,
+    77,
+    221,
+    193,
+    176,
+    0,
+    0,
+    0
+  ]
+}

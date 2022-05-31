@@ -1,0 +1,35 @@
+{
+  "name": "Luigi",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 256,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 0,
+    "model_number": 12
+  },
+  "uuid": [
+    203,
+    153,
+    14,
+    94,
+    8,
+    96,
+    90,
+    0,
+    0,
+    0
+  ]
+}

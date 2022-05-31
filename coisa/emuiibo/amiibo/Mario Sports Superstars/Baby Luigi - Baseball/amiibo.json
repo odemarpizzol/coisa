@@ -1,0 +1,35 @@
+{
+  "name": "Baby Luigi - Baseball",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 52489,
+    "character_variant": 2,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 683
+  },
+  "uuid": [
+    162,
+    76,
+    58,
+    63,
+    213,
+    66,
+    234,
+    0,
+    0,
+    0
+  ]
+}

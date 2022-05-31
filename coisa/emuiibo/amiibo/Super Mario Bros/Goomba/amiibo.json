@@ -1,0 +1,35 @@
+{
+  "name": "Goomba",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 5376,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 1,
+    "model_number": 871
+  },
+  "uuid": [
+    139,
+    245,
+    121,
+    145,
+    54,
+    96,
+    93,
+    0,
+    0,
+    0
+  ]
+}

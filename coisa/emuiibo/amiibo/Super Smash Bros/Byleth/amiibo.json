@@ -1,0 +1,35 @@
+{
+  "name": "Byleth",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 2849,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 0,
+    "model_number": 933
+  },
+  "uuid": [
+    87,
+    84,
+    229,
+    140,
+    92,
+    189,
+    36,
+    0,
+    0,
+    0
+  ]
+}

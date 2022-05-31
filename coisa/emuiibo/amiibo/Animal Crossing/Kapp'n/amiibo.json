@@ -1,0 +1,35 @@
+{
+  "name": "Kapp'n",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 38401,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 72
+  },
+  "uuid": [
+    79,
+    156,
+    128,
+    182,
+    224,
+    239,
+    148,
+    0,
+    0,
+    0
+  ]
+}

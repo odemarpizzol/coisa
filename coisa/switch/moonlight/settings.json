@@ -1,0 +1,14 @@
+{
+    "settings": {
+        "resolution": 720,
+        "fps": 60,
+        "video_codec": 0,
+        "bitrate": 10000,
+        "ignore_unsupported_resolutions": true,
+        "decoder_threads": 3,
+        "click_by_tap": true,
+        "sops": true,
+        "play_audio": false,
+        "write_log": true
+    }
+}

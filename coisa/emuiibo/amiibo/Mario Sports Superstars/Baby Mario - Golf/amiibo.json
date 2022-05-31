@@ -1,0 +1,35 @@
+{
+  "name": "Baby Mario - Golf",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 52233,
+    "character_variant": 4,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 680
+  },
+  "uuid": [
+    234,
+    23,
+    63,
+    12,
+    157,
+    36,
+    242,
+    0,
+    0,
+    0
+  ]
+}

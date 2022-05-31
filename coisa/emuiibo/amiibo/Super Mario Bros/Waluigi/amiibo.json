@@ -1,0 +1,35 @@
+{
+  "name": "Waluigi",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 5120,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 1,
+    "model_number": 615
+  },
+  "uuid": [
+    210,
+    193,
+    126,
+    94,
+    255,
+    66,
+    102,
+    0,
+    0,
+    0
+  ]
+}

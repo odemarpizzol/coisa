@@ -1,0 +1,35 @@
+{
+  "name": "Donkey Kong - Tennis",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 50953,
+    "character_variant": 3,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 654
+  },
+  "uuid": [
+    100,
+    22,
+    110,
+    86,
+    3,
+    128,
+    72,
+    0,
+    0,
+    0
+  ]
+}

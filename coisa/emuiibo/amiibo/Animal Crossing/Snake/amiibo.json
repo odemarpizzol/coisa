@@ -1,0 +1,35 @@
+{
+  "name": "Snake",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 38660,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 122
+  },
+  "uuid": [
+    38,
+    39,
+    29,
+    217,
+    244,
+    51,
+    233,
+    0,
+    0,
+    0
+  ]
+}

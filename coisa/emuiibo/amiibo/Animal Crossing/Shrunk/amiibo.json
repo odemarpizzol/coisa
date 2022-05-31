@@ -1,0 +1,35 @@
+{
+  "name": "Shrunk",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 45313,
+    "character_variant": 0,
+    "figure_type": 1,
+    "series": 5,
+    "model_number": 178
+  },
+  "uuid": [
+    208,
+    84,
+    180,
+    121,
+    255,
+    4,
+    10,
+    0,
+    0,
+    0
+  ]
+}

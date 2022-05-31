@@ -1,0 +1,35 @@
+{
+  "name": "Boo - Baseball",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 51977,
+    "character_variant": 2,
+    "figure_type": 1,
+    "series": 14,
+    "model_number": 673
+  },
+  "uuid": [
+    23,
+    0,
+    205,
+    152,
+    191,
+    14,
+    12,
+    0,
+    0,
+    0
+  ]
+}

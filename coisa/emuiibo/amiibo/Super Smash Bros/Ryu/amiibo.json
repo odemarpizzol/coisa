@@ -1,0 +1,35 @@
+{
+  "name": "Ryu",
+  "write_counter": 0,
+  "version": 0,
+  "mii_charinfo_file": "mii-charinfo.bin",
+  "first_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "last_write_date": {
+    "y": 2021,
+    "m": 11,
+    "d": 14
+  },
+  "id": {
+    "game_character_id": 49204,
+    "character_variant": 0,
+    "figure_type": 0,
+    "series": 0,
+    "model_number": 595
+  },
+  "uuid": [
+    82,
+    9,
+    73,
+    155,
+    224,
+    45,
+    240,
+    0,
+    0,
+    0
+  ]
+}
